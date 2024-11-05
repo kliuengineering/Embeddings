@@ -1,4 +1,4 @@
-# Learnable Data Representation - Embeddings
+# Learnable Data Representation - Embeddings (Halted Development)
 
 ## Objectives
 
